@@ -4,14 +4,14 @@ def addition(num1, num2)
   addition_result
 end
 
-def substraction(num1, num2)
-  substraction_result = num1 - num2
-  puts substraction_result
-  substraction_result
+def subtraction(num1, num2)
+  subtraction_result = num1 - num2
+  puts subtraction_result
+  subtraction_result
 end
 
 def division(num1, num2)
-  division result = num1/num2
+  division_result = num1/num2
   puts division result
   division_result
 end
@@ -29,7 +29,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  square_root_product = Math.sqrt(num)
-  puts square_root_product
+  square_root_result = Math.sqrt(num)
+  puts square_root_result
   square_root_result
 end
