@@ -3,8 +3,6 @@ def addition(num1, num2)
   puts sum
 end
 
-addition(num1, num2)
-
 def substraction(num1, num2)
   sum = num1 - num2
   puts sum
