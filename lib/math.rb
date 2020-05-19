@@ -19,33 +19,13 @@ def multiplication(num1, num2)
 end
 
 
-
-
-
-
-
-
-
-
-
-
-
-def subtraction(num1, num2)
-
+def square_root(num)
+  product = math.sqrt(num)
+  puts product
 end
 
-def division(num1, num2)
 
-end
-
-def multiplication(num1, num2)
-
-end
 
 def modulo(num1, num2)
-
-end
-
-def square_root(num)
 
 end
