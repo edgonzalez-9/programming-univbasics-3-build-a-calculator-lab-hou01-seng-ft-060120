@@ -12,7 +12,7 @@ end
 
 def division(num1, num2)
   division_result = num1/num2
-  puts division result
+  puts division_result
   division_result
 end
 
